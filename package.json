@@ -1,0 +1,19 @@
+{
+  "name": "mcpRCH",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "@colyseus/ws-transport": "^0.16.5",
+    "colyseus": "^0.16.4",
+    "matter-js": "^0.20.0",
+    "phaser": "^3.90.0"
+  }
+}
